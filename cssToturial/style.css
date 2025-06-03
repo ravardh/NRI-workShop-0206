@@ -1,0 +1,24 @@
+#a{
+    background-color: aquamarine;
+    color: red;
+    border: 5px solid red;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    font-style:italic;
+    line-height: 50px;
+    letter-spacing: 20px;
+    width: 300px;
+    height: 300px;
+    overflow: scroll;
+}
+
+
+#gift{
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    margin:5px;
+    padding: 10px 30px 50px 0; 
+}
