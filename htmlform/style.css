@@ -1,0 +1,19 @@
+.cell{
+    width: 150px;
+}
+
+.cellInput{
+    width: 120px;
+}
+
+#title{
+    text-align: center;
+    font-size: larger;
+    padding: 7px;
+    font-weight: bold;
+}
+
+
+label{
+    font-weight: bold;
+}
