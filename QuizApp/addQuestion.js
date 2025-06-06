@@ -6,6 +6,12 @@ function addQuestion() {
   const op4 = document.getElementById("newQuesOption4").value;
   const crOp = document.getElementById("correctOption").value;
 
+  if (!ques || !op1 || !op2 || !op3 || !op4 || !crOp) {
+    alert("Please Fill all the feilds");
+    resetTheForm();
+    return;
+  }
+
   const tempQuestion = {
     Ques: ques,
     Op1: op1,
@@ -16,8 +22,8 @@ function addQuestion() {
   };
 
   const oldQuestion = JSON.parse(localStorage.getItem("QuestionsData")) || [];
-  
-  oldQuestion.push(tempQuestion)
+
+  oldQuestion.push(tempQuestion);
 
   const Question = JSON.stringify(oldQuestion);
   localStorage.setItem("QuestionsData", Question);
@@ -34,3 +40,13 @@ function resetTheForm() {
   document.getElementById("newQuesOption4").value = "";
   document.getElementById("correctOption").value = "";
 }
+
+// async function questions() {
+//   const res = await fetch("SampleQuestions.json");
+//   const data = await res.json();
+//   console.log(data);
+//   const Question = JSON.stringify(data);
+//   localStorage.setItem("QuestionsData", Question);
+// }
+
+// questions()

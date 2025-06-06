@@ -1,0 +1,402 @@
+[
+    {
+        "Ques": "Which planet is known as the Red Planet?",
+        "CrOp": "1",
+        "Op1": "Mars",
+        "Op2": "Jupiter",
+        "Op3": "Venus",
+        "Op4": "Saturn"
+    },
+    {
+        "Ques": "Who is the author of 'Ramayana'?",
+        "CrOp": "2",
+        "Op1": "Tulsidas",
+        "Op2": "Valmiki",
+        "Op3": "Ved Vyas",
+        "Op4": "Kalidas"
+    },
+    {
+        "Ques": "What is the capital of Australia?",
+        "CrOp": "3",
+        "Op1": "Sydney",
+        "Op2": "Melbourne",
+        "Op3": "Canberra",
+        "Op4": "Perth"
+    },
+    {
+        "Ques": "Which gas is most abundant in Earth’s atmosphere?",
+        "CrOp": "1",
+        "Op1": "Nitrogen",
+        "Op2": "Oxygen",
+        "Op3": "Carbon Dioxide",
+        "Op4": "Hydrogen"
+    },
+    {
+        "Ques": "Who invented the telephone?",
+        "CrOp": "2",
+        "Op1": "Thomas Edison",
+        "Op2": "Alexander Graham Bell",
+        "Op3": "Nikola Tesla",
+        "Op4": "Isaac Newton"
+    },
+    {
+        "Ques": "Which is the largest ocean in the world?",
+        "CrOp": "1",
+        "Op1": "Pacific Ocean",
+        "Op2": "Atlantic Ocean",
+        "Op3": "Indian Ocean",
+        "Op4": "Arctic Ocean"
+    },
+    {
+        "Ques": "In which year did India become independent?",
+        "CrOp": "4",
+        "Op1": "1945",
+        "Op2": "1950",
+        "Op3": "1946",
+        "Op4": "1947"
+    },
+    {
+        "Ques": "Which is the smallest prime number?",
+        "CrOp": "1",
+        "Op1": "2",
+        "Op2": "1",
+        "Op3": "0",
+        "Op4": "3"
+    },
+    {
+        "Ques": "What is the national animal of India?",
+        "CrOp": "2",
+        "Op1": "Elephant",
+        "Op2": "Tiger",
+        "Op3": "Lion",
+        "Op4": "Leopard"
+    },
+    {
+        "Ques": "Which instrument is used to measure temperature?",
+        "CrOp": "3",
+        "Op1": "Barometer",
+        "Op2": "Hygrometer",
+        "Op3": "Thermometer",
+        "Op4": "Altimeter"
+    },
+    {
+        "Ques": "Which country is called the Land of the Rising Sun?",
+        "CrOp": "2",
+        "Op1": "China",
+        "Op2": "Japan",
+        "Op3": "Thailand",
+        "Op4": "South Korea"
+    },
+    {
+        "Ques": "Who was the first President of India?",
+        "CrOp": "1",
+        "Op1": "Dr. Rajendra Prasad",
+        "Op2": "Dr. B. R. Ambedkar",
+        "Op3": "Sardar Patel",
+        "Op4": "Jawaharlal Nehru"
+    },
+    {
+        "Ques": "Which is the longest river in the world?",
+        "CrOp": "3",
+        "Op1": "Amazon",
+        "Op2": "Yangtze",
+        "Op3": "Nile",
+        "Op4": "Ganga"
+    },
+    {
+        "Ques": "Who discovered gravity?",
+        "CrOp": "4",
+        "Op1": "Albert Einstein",
+        "Op2": "Galileo",
+        "Op3": "Edison",
+        "Op4": "Isaac Newton"
+    },
+    {
+        "Ques": "What is H2O commonly known as?",
+        "CrOp": "1",
+        "Op1": "Water",
+        "Op2": "Oxygen",
+        "Op3": "Hydrogen",
+        "Op4": "Salt"
+    },
+    {
+        "Ques": "Which continent is the Sahara Desert located in?",
+        "CrOp": "2",
+        "Op1": "Asia",
+        "Op2": "Africa",
+        "Op3": "Australia",
+        "Op4": "South America"
+    },
+    {
+        "Ques": "Which is the highest mountain in the world?",
+        "CrOp": "1",
+        "Op1": "Mount Everest",
+        "Op2": "K2",
+        "Op3": "Kangchenjunga",
+        "Op4": "Makalu"
+    },
+    {
+        "Ques": "What is the full form of CPU?",
+        "CrOp": "4",
+        "Op1": "Central Process Unit",
+        "Op2": "Computer Processing Unit",
+        "Op3": "Central Programming Unit",
+        "Op4": "Central Processing Unit"
+    },
+    {
+        "Ques": "Which is the national flower of India?",
+        "CrOp": "2",
+        "Op1": "Rose",
+        "Op2": "Lotus",
+        "Op3": "Lily",
+        "Op4": "Marigold"
+    },
+    {
+        "Ques": "Which festival is known as the festival of lights?",
+        "CrOp": "3",
+        "Op1": "Holi",
+        "Op2": "Eid",
+        "Op3": "Diwali",
+        "Op4": "Christmas"
+    },
+    {
+        "Ques": "What does HTML stand for?",
+        "CrOp": "1",
+        "Op1": "Hyper Text Markup Language",
+        "Op2": "Home Tool Markup Language",
+        "Op3": "Hyperlinks and Text Markup Language",
+        "Op4": "Hyper Tool Mark Language"
+    },
+    {
+        "Ques": "Which HTML tag is used to create a hyperlink?",
+        "CrOp": "2",
+        "Op1": "<link>",
+        "Op2": "<a>",
+        "Op3": "<href>",
+        "Op4": "<url>"
+    },
+    {
+        "Ques": "Which HTML element is used for the largest heading?",
+        "CrOp": "1",
+        "Op1": "<h1>",
+        "Op2": "<heading>",
+        "Op3": "<head>",
+        "Op4": "<h6>"
+    },
+    {
+        "Ques": "Which HTML attribute is used to define inline styles?",
+        "CrOp": "3",
+        "Op1": "font",
+        "Op2": "class",
+        "Op3": "style",
+        "Op4": "css"
+    },
+    {
+        "Ques": "What is the correct HTML element for inserting a line break?",
+        "CrOp": "2",
+        "Op1": "<lb>",
+        "Op2": "<br>",
+        "Op3": "<break>",
+        "Op4": "<hr>"
+    },
+    {
+        "Ques": "Which tag is used to define an unordered list in HTML?",
+        "CrOp": "1",
+        "Op1": "<ul>",
+        "Op2": "<ol>",
+        "Op3": "<list>",
+        "Op4": "<li>"
+    },
+    {
+        "Ques": "What is the correct way to link a CSS file to an HTML file?",
+        "CrOp": "3",
+        "Op1": "<style src='style.css'>",
+        "Op2": "<script href='style.css'>",
+        "Op3": "<link rel='stylesheet' href='style.css'>",
+        "Op4": "<css link='style.css'>"
+    },
+    {
+        "Ques": "Which CSS property controls text size?",
+        "CrOp": "1",
+        "Op1": "font-size",
+        "Op2": "text-style",
+        "Op3": "font-style",
+        "Op4": "text-size"
+    },
+    {
+        "Ques": "How do you select an element with id 'main' in CSS?",
+        "CrOp": "2",
+        "Op1": ".main",
+        "Op2": "#main",
+        "Op3": "*main",
+        "Op4": "main"
+    },
+    {
+        "Ques": "How do you select all <p> elements inside a <div> in CSS?",
+        "CrOp": "3",
+        "Op1": "div.p",
+        "Op2": "p div",
+        "Op3": "div p",
+        "Op4": "p > div"
+    },
+    {
+        "Ques": "Which tag is used to embed an image in HTML?",
+        "CrOp": "1",
+        "Op1": "<img>",
+        "Op2": "<image>",
+        "Op3": "<pic>",
+        "Op4": "<src>"
+    },
+    {
+        "Ques": "Which CSS property is used to change the background color?",
+        "CrOp": "2",
+        "Op1": "color",
+        "Op2": "background-color",
+        "Op3": "bgcolor",
+        "Op4": "background"
+    },
+    {
+        "Ques": "What is the correct HTML for adding a background color?",
+        "CrOp": "4",
+        "Op1": "<body color='yellow'>",
+        "Op2": "<background>yellow</background>",
+        "Op3": "<body style='bgcolor:yellow;'>",
+        "Op4": "<body style='background-color:yellow;'>"
+    },
+    {
+        "Ques": "Which is the correct syntax in CSS to make text bold?",
+        "CrOp": "2",
+        "Op1": "font-weight:normal;",
+        "Op2": "font-weight:bold;",
+        "Op3": "font:bold;",
+        "Op4": "bold:true;"
+    },
+    {
+        "Ques": "Which property is used to align text in CSS?",
+        "CrOp": "1",
+        "Op1": "text-align",
+        "Op2": "text-style",
+        "Op3": "font-align",
+        "Op4": "align-text"
+    },
+    {
+        "Ques": "Which tag is used to create a table in HTML?",
+        "CrOp": "3",
+        "Op1": "<tbl>",
+        "Op2": "<tble>",
+        "Op3": "<table>",
+        "Op4": "<tr>"
+    },
+    {
+        "Ques": "Which tag is used to define a table row?",
+        "CrOp": "4",
+        "Op1": "<td>",
+        "Op2": "<table-row>",
+        "Op3": "<row>",
+        "Op4": "<tr>"
+    },
+    {
+        "Ques": "How do you make a list that lists items with numbers?",
+        "CrOp": "1",
+        "Op1": "<ol>",
+        "Op2": "<ul>",
+        "Op3": "<dl>",
+        "Op4": "<li>"
+    },
+    {
+        "Ques": "Which HTML attribute specifies an alternate text for an image?",
+        "CrOp": "2",
+        "Op1": "src",
+        "Op2": "alt",
+        "Op3": "title",
+        "Op4": "name"
+    },
+    {
+        "Ques": "Which HTML element defines the title of a document?",
+        "CrOp": "3",
+        "Op1": "<head>",
+        "Op2": "<meta>",
+        "Op3": "<title>",
+        "Op4": "<header>"
+    },
+    {
+        "Ques": "How can you make a numbered list in HTML?",
+        "CrOp": "1",
+        "Op1": "<ol>",
+        "Op2": "<ul>",
+        "Op3": "<li>",
+        "Op4": "<list>"
+    },
+    {
+        "Ques": "What is the default value of the position property in CSS?",
+        "CrOp": "3",
+        "Op1": "absolute",
+        "Op2": "fixed",
+        "Op3": "static",
+        "Op4": "relative"
+    },
+    {
+        "Ques": "Which tag is used to insert a horizontal rule in HTML?",
+        "CrOp": "2",
+        "Op1": "<line>",
+        "Op2": "<hr>",
+        "Op3": "<br>",
+        "Op4": "<border>"
+    },
+    {
+        "Ques": "Which property is used to change the font of an element?",
+        "CrOp": "3",
+        "Op1": "text-font",
+        "Op2": "font-weight",
+        "Op3": "font-family",
+        "Op4": "text-family"
+    },
+    {
+        "Ques": "What is the correct HTML for inserting a checkbox?",
+        "CrOp": "4",
+        "Op1": "<check>",
+        "Op2": "<input type='check'>",
+        "Op3": "<input checkbox>",
+        "Op4": "<input type='checkbox'>"
+    },
+    {
+        "Ques": "Which doctype declaration is correct for HTML5?",
+        "CrOp": "1",
+        "Op1": "<!DOCTYPE html>",
+        "Op2": "<!DOCTYPE HTML PUBLIC>",
+        "Op3": "<!DOCTYPE HTML SYSTEM>",
+        "Op4": "<DOCTYPE html5>"
+    },
+    {
+        "Ques": "What does CSS stand for?",
+        "CrOp": "2",
+        "Op1": "Colorful Style Sheets",
+        "Op2": "Cascading Style Sheets",
+        "Op3": "Creative Style Sheets",
+        "Op4": "Computer Style Sheets"
+    },
+    {
+        "Ques": "How do you apply a style to all <h1> tags in CSS?",
+        "CrOp": "1",
+        "Op1": "h1 { }",
+        "Op2": "#h1 { }",
+        "Op3": ".h1 { }",
+        "Op4": "*h1 { }"
+    },
+    {
+        "Ques": "Which CSS property adds space inside an element’s border?",
+        "CrOp": "3",
+        "Op1": "margin",
+        "Op2": "border",
+        "Op3": "padding",
+        "Op4": "spacing"
+    },
+    {
+        "Ques": "What does the <meta> tag provide?",
+        "CrOp": "2",
+        "Op1": "Navigation bar",
+        "Op2": "Metadata about the document",
+        "Op3": "Form elements",
+        "Op4": "Image properties"
+    }
+]

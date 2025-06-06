@@ -10,11 +10,13 @@
       integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header>
-      <div class="container-fluid bg-primary d-flex justify-content-around align-items-center text-light">
+      <div
+        class="container-fluid bg-primary d-flex justify-content-around align-items-center text-light"
+      >
         <h1>Quiz Application</h1>
         <div class="d-flex gap-3">
           <h3><a href="./index.html">Home</a></h3>
@@ -25,31 +27,62 @@
     </header>
 
     <main>
-      <div class="container bg-light border rounded mt-3 p-5">
-        <h5>Q1. What is the Capital of India?</h5>
+      <div class="container text-center mt-5 p-5" id="StartGame">
+        <button class="btn btn-lg btn-success" onclick="StartGame()">
+          Start Game
+        </button>
+      </div>
+
+      <div
+        class="container bg-light border rounded mt-3 p-5"
+        id="Game"
+        style="display: none"
+      >
+        <h5 id="Question"></h5>
 
         <div class="container d-grid gap-3 mt-4">
           <div>
             <input type="radio" name="Options" id="option1" value="1" />
-            <span>Mumbai</span>
+            <span id="Option1"></span>
           </div>
           <div>
             <input type="radio" name="Options" id="option1" value="2" />
-            <span>Delhi</span>
+            <span id="Option2"></span>
           </div>
           <div>
             <input type="radio" name="Options" id="option1" value="3" />
-            <span>Chennai</span>
+            <span id="Option3"></span>
           </div>
           <div>
             <input type="radio" name="Options" id="option1" value="4" />
-            <span>Kolkata</span>
+            <span id="Option4"></span>
           </div>
         </div>
 
         <div class="container mt-5 d-flex justify-content-between">
-            <button class="btn btn-secondary">Previous Question</button>
-            <button class="btn btn-primary">Next Question</button>
+          <button class="btn btn-secondary">Previous Question</button>
+          <button class="btn btn-primary" onclick="NextQuestion()">
+            Next Question
+          </button>
+        </div>
+      </div>
+
+      <div class="container" id="Result" style="display: none">
+        <div
+          class="container bg-light d-grid justify-content-center gap-5 p-5 mt-5"
+        >
+          <h1 class="text-danger display-1 fw-bolder text-center">
+            <span id="Greetings"></span>
+          </h1>
+          <h3 class="text-center text-success fw-bolder">
+            Your Score : <span id="score"></span>
+          </h3>
+
+          <div class="text-center">
+            <button class="btn btn-primary" onclick="restartGame()">
+              Restart The Game
+            </button>
+          </div>
         </div>
       </div>
     </main>
